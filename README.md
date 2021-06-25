@@ -23,3 +23,36 @@
 
 #### Target Column Description: Exited is a class label used to divide into groups (customer closed account or not). 
  
+## Task Completed:
+
+#### Import Libraries
+
+#### Data Preparation
+
+#### Data Interpretation
+
+#### Missing Value Treatment
+
+#### Exploratory Data Analysis
+
+#### Data Cleaning
+
+#### Scale the Data
+
+#### A. Logistic Regression
+
+#### B. GaussianNB
+
+#### C. KNNeighborsClassifier
+
+#### D. Decision Tree Classifier
+
+#### E. Random Forest Classifier
+
+#### F. XGBoost (eXtreme Gradient Boost) Classifier
+
+#### G. AdaBoost classifier
+
+#### H. Gradient Boosting
+
+#### I. Stack Generalization
